@@ -1,8 +1,8 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
-    "password": "",
+    "username": "I-Am-Def-A-Human",
+    "password": "khikhimuahahhahah",
     "type": "offline"
   },
   "server": {
@@ -32,8 +32,16 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Subscribe to KoolGuy(hes great btw)",
+        "I like to play Minecraft!",
+        "Dont underestimate me!! I am a totally normal player and not a bot whose made by slobos and got on with the help of KoolGuy",
+        "Welcome To Just Build Dude, dont yap here like a bot named I-Am-Def-A-Human",
+        "Kamehamehhaaa",
+        "If your power is building than what are you without it",
+        "I am a Socraterian bot (a bot who IS a student of socrates)",
+        "Go touch some grass big boy",
+        "brotha u stink, go have a shower",
+        "dyk if u dont eat or drink anything for a week than u will be in hardcore mode irl and die and u will go to the title screen losing your world :))",
       ]
     },
     "chat-log": true,
@@ -62,10 +70,10 @@
     "combat": true,
     "beds": false,
     "chat": true,
-    "console-commands": true
+    "console-commands": false
   },
   "combat": {
-    "attack-mobs": true,
+    "attack-mobs": false,
     "auto-eat": true
   },
   "beds": {
